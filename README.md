@@ -197,10 +197,6 @@ const currentlyLearning = {
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=theanthefinest&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
