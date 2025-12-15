@@ -135,19 +135,49 @@ const currentlyLearning = {
 
 ### 📈 Skill Progression
 
-```text
-Java          ████████████████████ 95%
-Python        ████████████████████ 90%
-C/C++         ██████████████████░░ 85%
-Git           ██████████████████░░ 85%
-HTML/CSS      ████████████████░░░░ 80%
+<table>
+<tr><td width="50%">
 
-JavaScript    ████████████░░░░░░░░ 60%  🔥 Actively Learning
-React         ██████████░░░░░░░░░░ 50%  🔥 Actively Learning
-Node.js       █████████░░░░░░░░░░░ 45%  🔥 Actively Learning
-MongoDB       ████████░░░░░░░░░░░░ 40%  🔥 Actively Learning
-AI/ML         ███████░░░░░░░░░░░░░ 35%  🌱 Exploring
-```
+**Core Strengths** 💪
+
+![Java](https://img.shields.io/badge/Java-95%25-success?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-90%25-success?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-85%25-success?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-85%25-success?style=flat-square&logo=git&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-80%25-success?style=flat-square&logo=html5&logoColor=white)
+
+</td><td width="50%">
+
+**Currently Learning** 🔥
+
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-50%25-yellow?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-45%25-yellow?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-40%25-yellow?style=flat-square&logo=mongodb&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-35%25-orange?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td></tr>
+</table>
+
+<details>
+<summary>📊 View Detailed Progress Chart</summary>
+
+<br>
+
+| Skill | Proficiency | Status |
+|-------|-------------|--------|
+| **Java** | ![95%](https://progress-bar.dev/95?title=Mastered&width=200&color=00d4aa) | ✅ Production Ready |
+| **Python** | ![90%](https://progress-bar.dev/90?title=Advanced&width=200&color=00d4aa) | ✅ Production Ready |
+| **C/C++** | ![85%](https://progress-bar.dev/85?title=Advanced&width=200&color=00d4aa) | ✅ Production Ready |
+| **Git & GitHub** | ![85%](https://progress-bar.dev/85?title=Advanced&width=200&color=00d4aa) | ✅ Production Ready |
+| **HTML/CSS** | ![80%](https://progress-bar.dev/80?title=Proficient&width=200&color=00d4aa) | ✅ Production Ready |
+| **JavaScript** | ![60%](https://progress-bar.dev/60?title=Intermediate&width=200&color=ffcc00) | 🔥 Actively Learning |
+| **React** | ![50%](https://progress-bar.dev/50?title=Learning&width=200&color=ffcc00) | 🔥 Actively Learning |
+| **Node.js** | ![45%](https://progress-bar.dev/45?title=Learning&width=200&color=ffcc00) | 🔥 Actively Learning |
+| **MongoDB** | ![40%](https://progress-bar.dev/40?title=Beginner&width=200&color=ff9900) | 🌱 Exploring |
+| **AI/ML** | ![35%](https://progress-bar.dev/35?title=Beginner&width=200&color=ff9900) | 🌱 Exploring |
+
+</details>
 
 </div>
 
