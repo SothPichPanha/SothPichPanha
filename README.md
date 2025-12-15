@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=435&lines=Building+Scalable+Applications;AI+%26+Machine+Learning+Explorer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-Sothpichpanha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sothpichpanha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-theanthefinest-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theanthefinest)
-[![Profile Views](https://komarev.com/ghpvc/?username=theanthefinest&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/theanthefinest)
+[![GitHub](https://img.shields.io/badge/GitHub-SothPichPanha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SothPichPanha)
+[![Profile Views](https://komarev.com/ghpvc/?username=SothPichPanha&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/SothPichPanha)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -188,16 +188,22 @@ const currentlyLearning = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=theanthefinest&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=theanthefinest&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SothPichPanha&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SothPichPanha&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanthefinest&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothPichPanha&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+### 📅 Contribution Activity
+
 <div align="center">
-  <img src="https://ghchart.rshah.org/00D9FF/theanthefinest" alt="GitHub Contribution Chart" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/SothPichPanha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=53&theme=native&dark=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/SothPichPanha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=53">
+    <img alt="GitHub Contribution Grid" src="https://ssr-contributions-svg.vercel.app/_/SothPichPanha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=53" width="95%">
+  </picture>
 </div>
 
 <div align="center">
@@ -207,7 +213,7 @@ const currentlyLearning = {
 ## 🏆 Achievements & Milestones
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=theanthefinest&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=2&column=5" alt="GitHub Trophies" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=SothPichPanha&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=2&column=5" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
@@ -264,7 +270,7 @@ I'm always interested in connecting with fellow developers, working on exciting 
 <a href="mailto:Sothpichpanha@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://github.com/theanthefinest">
+<a href="https://github.com/SothPichPanha">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
