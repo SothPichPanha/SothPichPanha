@@ -185,16 +185,21 @@ const currentlyLearning = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SothPichPanha&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SothPichPanha&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothPichPanha&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
 ### 📅 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/SothPichPanha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=53&theme=native&dark=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/SothPichPanha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=53">
-    <img alt="GitHub Contribution Grid" src="https://ssr-contributions-svg.vercel.app/_/SothPichPanha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=53" width="95%">
-  </picture>
+  <img src="https://ghchart.rshah.org/00D9FF/SothPichPanha" alt="GitHub Contribution Chart" width="95%" />
 </div>
 
 <div align="center">
