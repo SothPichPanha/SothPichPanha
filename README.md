@@ -62,35 +62,92 @@ const pichpanha = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Learning Journey
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Languages
+### 💪 Proficient (80%+)
+
+#### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+#### Frontend Basics
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Technologies
+#### Tools & Productivity
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+```javascript
+const proficientSkills = {
+    languages: ['Java', 'Python', 'C', 'C++'],
+    tools: ['Git', 'VS Code', 'Linux'],
+    markup: ['HTML5', 'CSS3', 'LaTeX']
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Learning & Growing
+
+#### Modern JavaScript Ecosystem
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+#### Database Management
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+```javascript
+const currentlyLearning = {
+    fullStack: ['JavaScript', 'React', 'Node.js', 'Express'],
+    databases: ['MongoDB', 'MySQL'],
+    styling: ['Tailwind CSS'],
+    aiML: ['TensorFlow', 'scikit-learn'],
+    status: 'Growing every day! 🚀'
+};
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📈 Skill Progression
+
+```text
+Java          ████████████████████ 95%
+Python        ████████████████████ 90%
+C/C++         ██████████████████░░ 85%
+Git           ██████████████████░░ 85%
+HTML/CSS      ████████████████░░░░ 80%
+
+JavaScript    ████████████░░░░░░░░ 60%  🔥 Actively Learning
+React         ██████████░░░░░░░░░░ 50%  🔥 Actively Learning
+Node.js       █████████░░░░░░░░░░░ 45%  🔥 Actively Learning
+MongoDB       ████████░░░░░░░░░░░░ 40%  🔥 Actively Learning
+AI/ML         ███████░░░░░░░░░░░░░ 35%  🌱 Exploring
+```
 
 </div>
 
