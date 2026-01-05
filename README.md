@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Sothpichpanha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sothpichpanha@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SothPichPanha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SothPichPanha)
 [![Profile Views](https://komarev.com/ghpvc/?username=SothPichPanha&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/SothPichPanha)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+ 
 
 
 </div>
@@ -30,7 +30,7 @@ const pichpanha = {
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+ 
 </div>
 
 ## 💼 What I'm Currently Working On
