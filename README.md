@@ -159,31 +159,8 @@ const currentlyLearning = {
 </td></tr>
 </table>
 
-<details>
-<summary>📊 View Detailed Progress Chart</summary>
-
-<br>
-
-| Skill | Proficiency | Status |
-|-------|-------------|--------|
-| **Java** | ![95%](https://progress-bar.dev/95?title=Mastered&width=200&color=00d4aa) | ✅ Production Ready |
-| **Python** | ![90%](https://progress-bar.dev/90?title=Advanced&width=200&color=00d4aa) | ✅ Production Ready |
-| **C/C++** | ![85%](https://progress-bar.dev/85?title=Advanced&width=200&color=00d4aa) | ✅ Production Ready |
-| **Git & GitHub** | ![85%](https://progress-bar.dev/85?title=Advanced&width=200&color=00d4aa) | ✅ Production Ready |
-| **HTML/CSS** | ![80%](https://progress-bar.dev/80?title=Proficient&width=200&color=00d4aa) | ✅ Production Ready |
-| **JavaScript** | ![60%](https://progress-bar.dev/60?title=Intermediate&width=200&color=ffcc00) | 🔥 Actively Learning |
-| **React** | ![50%](https://progress-bar.dev/50?title=Learning&width=200&color=ffcc00) | 🔥 Actively Learning |
-| **Node.js** | ![45%](https://progress-bar.dev/45?title=Learning&width=200&color=ffcc00) | 🔥 Actively Learning |
-| **MongoDB** | ![40%](https://progress-bar.dev/40?title=Beginner&width=200&color=ff9900) | 🌱 Exploring |
-| **AI/ML** | ![35%](https://progress-bar.dev/35?title=Beginner&width=200&color=ff9900) | 🌱 Exploring |
-
-</details>
-
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 📊 GitHub Analytics
 
