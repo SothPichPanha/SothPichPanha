@@ -179,19 +179,14 @@ const currentlyLearning = {
   <img src="https://ghchart.rshah.org/00D9FF/SothPichPanha" alt="GitHub Contribution Chart" width="95%" />
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+ 
 
 ## 🏆 Achievements & Milestones
 
 <div align="center">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=SothPichPanha&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=2&column=5" alt="GitHub Trophies" />
 </div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+ 
 
 ## 🎓 Experience & Services
 
@@ -217,10 +212,7 @@ Open to exciting projects and partnerships in tech innovation
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+ 
 
 ## 💭 Developer Wisdom
 
@@ -228,9 +220,7 @@ Open to exciting projects and partnerships in tech innovation
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+ 
 
 ## 🌟 Let's Connect & Collaborate
 
@@ -252,7 +242,5 @@ I'm always interested in connecting with fellow developers, working on exciting 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 **Thanks for visiting my profile! Happy coding! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 
 </div>
