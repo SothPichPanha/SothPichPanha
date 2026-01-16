@@ -157,31 +157,6 @@ const currentlyLearning = {
 </div>
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SothPichPanha&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SothPichPanha&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothPichPanha&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-### 📅 Contribution Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00D9FF/SothPichPanha" alt="GitHub Contribution Chart" width="95%" />
-</div>
-
- 
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=SothPichPanha&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=2&column=5" alt="GitHub Trophies" />
-</div>
- 
 
 ## 🎓 Experience & Services
 
