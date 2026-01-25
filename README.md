@@ -157,33 +157,6 @@ const currentlyLearning = {
 </div>
 
 
-
-## 🎓 Experience & Services
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 💻 Software Development
-Building robust and scalable full-stack applications with modern technologies
-
-</td>
-<td width="33%" align="center">
-
-### 🧑‍🏫 Tutoring
-Teaching Mathematics & Physics to Freshman students with passion
-
-</td>
-<td width="33%" align="center">
-
-### 🤝 Collaboration
-Open to exciting projects and partnerships in tech innovation
-
-</td>
-</tr>
-</table>
- 
-
 ## 💭 Developer Wisdom
 
 <div align="center">
@@ -208,8 +181,6 @@ I'm always interested in connecting with fellow developers, working on exciting 
 </a>
 
 ### 💙 If you like my work, consider giving a ⭐ to my repositories!
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 **Thanks for visiting my profile! Happy coding! 🚀**
 
