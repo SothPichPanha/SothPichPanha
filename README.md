@@ -25,7 +25,7 @@ const pichpanha = {
     education: "Full-Stack Development Student",
     interests: ["AI/ML", "Web Development", "Cloud Computing", "Problem Solving"],
     currentFocus: "Building scalable full-stack applications",
-    funFact: "I teach Mathematics & Physics to help others succeed! 🧑‍🏫"
+    funFact: "help orther make me happy than play game :) 🧑‍🏫"
 };
 ```
  
@@ -86,7 +86,7 @@ const pichpanha = {
 const proficientSkills = {
     languages: ['Java', 'Python', 'C', 'C++'],
     tools: ['Git', 'VS Code', 'Linux'],
-    markup: ['HTML5', 'CSS3', 'LaTeX']
+    markup: ['HTML5', 'CSS3']
 };
 ```
 
